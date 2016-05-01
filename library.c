@@ -1,5 +1,5 @@
 #include<stdio.h>
+#include "library.h"
 main(){
-int x =3;
-printf("%d", x);  
+printf("%d", x);
 }
